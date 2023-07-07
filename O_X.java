@@ -13,7 +13,6 @@ class O_X implements ActionListener{
     String text1="X";
     int a=0,xscore=0,oscore=0;
     Color c=new Color(255,0,0);
-
     
     O_X(){
         frame.setSize(700, 800);
